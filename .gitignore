@@ -1,0 +1,9 @@
+### 普通Java项目 template
+# 文件夹
+.idea/
+out/
+target/
+
+# 文件
+*.iml
+.gitignore
